@@ -1,6 +1,6 @@
 # Programmation-C
 
-Résolution d'exercices en langage C. Les énoncés sont joints ci-dessus.
+Résolution d'exercices en langage C. Les énoncés sont joints à chaques TP sous le nom TPx.md .
 ## Objectifs
 - **Comprendre la chaîne de compilation en utilisant GCC (GNU Compilation Chain)** : du prétraitement jusqu'à l'exécution.
 - **Travailler avec les bibliothèques standards et les appels de système d'exploitation** : gestion des fichiers, des sockets réseau, etc.
