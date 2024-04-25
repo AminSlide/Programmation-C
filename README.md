@@ -2,7 +2,7 @@
 
 Résolution d'exercices en langage C. Les énoncés sont joints ci-dessus.
 
-# Environnement de programmation
+## Environnement de programmation
 
 ### Configuration du système
 - **Système d'exploitation:** Linux, Ubuntu
