@@ -11,5 +11,5 @@
 # Difficulté
 * Difficulté sur la mise en route du programme binaire.c et pour celui du operateur2.c 
 
-# Commentaires
+
 
